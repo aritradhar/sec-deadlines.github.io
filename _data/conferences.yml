@@ -247,3 +247,13 @@
   place: San Diego, CA, USA
   tags: SEC
 
+# Crypto, hardware and side channel
+
+- name: CHES
+  description: Conference on Cryptographic Hardware and Embedded Systems
+  year: 2019
+  link: https://ches.iacr.org/
+  deadline: "2019-01-15 23:59"
+  date: August 25-28
+  place: Atlanta, USA
+  tags: [SEC, CRYPTO]
